@@ -209,12 +209,12 @@ figure {
         display: inline;
         list-style: none; }
         #colorlib-aside .colorlib-footer ul li a {
-          color: rgba(211, 70, 247, 0.4) !important;
+          color: rgba(11, 7, 25, 0.4) !important;
           padding: 4px; }
           #colorlib-aside .colorlib-footer ul li a:hover, #colorlib-aside .colorlib-footer ul li a:active, #colorlib-aside .colorlib-footer ul li a:focus {
             text-decoration: none;
             outline: none;
-            color: rgb(0, 0, 255) !important; }
+            color: rgb(255, 54, 54) !important; }
 
 .container-wrap {
   max-width: 1170px;

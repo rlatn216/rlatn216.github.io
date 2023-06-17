@@ -629,7 +629,7 @@ body.offcanvas {
     margin-bottom: 20px; }
     .services .icon2 i {
       font-size: 30px;
-      color: var(--primary-color); }
+      color: var(--color-1); }
   .services h3 {
     font-family: "Quicksand", Arial, sans-serif;
     font-size: 16px;

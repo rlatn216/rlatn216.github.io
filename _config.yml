@@ -25,7 +25,7 @@ youtube_vid: #
 # Custom Color
 primary: 000000 #b72cf0
 primary_hover: 44A4F2 #9a2dc7
-color_1: 2c98f0 #b72cf0
+color_1: 000000 #b72cf0
 color_2: ec5453
 color_3: f9bf3f
 color_4: a84cb8

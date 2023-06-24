@@ -64,8 +64,8 @@ about_services: # 형식에 맞추어 항목 추가
   name: Kotlin
 - icon: icon-code
   name: Java
-- icon: icon-phone3
-  name: App
+- icon: icon-android
+  name: Android
 - icon: icon-settings
   name: Dev-Ops
 # about_box_content: 괜찮은 문구 <br>박스 색바꾸는 yml파일에 추가 <br><br><br>야물파일로 변환 <strong>의뢰</strong>의뢰

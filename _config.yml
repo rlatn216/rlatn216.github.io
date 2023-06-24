@@ -60,8 +60,8 @@ about_content: >-
   설명설명
   서서설명 
 about_services: # 형식에 맞추어 항목 추가
-- icon: icon-data
-  name: Server
+- icon: icon-android
+  name: Android
 - icon: icon-monitor
   name: Web
 - icon: icon-phone3

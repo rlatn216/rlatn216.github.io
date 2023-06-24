@@ -103,6 +103,18 @@ tech_list: # 형식에 맞추어 항목 추가
   percent: 30
   mark: 30
   content: 대부분의 프로젝트를 github를 통해 소스 코드를 관리하였으며, 협업 역시 github을 통해 진행하였습니다. 또한 github서버를 활용하여 블로그 및 포트폴리오 사이트를 관리합니다.
+- name: AWS
+  color: color-3
+  animation: fadeInLeft
+  percent: 20
+  mark: 20
+  content: AWS를 서버로 활용하며, IOT 프로젝트를 해보았습니다. 현재는 도커에 대해 학습하고 있습니다.
+- name: AWS
+  color: color-3
+  animation: fadeInLeft
+  percent: 20
+  mark: 20
+  content: AWS를 서버로 활용하며, IOT 프로젝트를 해보았습니다. 현재는 도커에 대해 학습하고 있습니다.
 tech_desc: 앞으로 연구한것을 서비스화하기 위해서 <strong>javascript, Node JS, 리엑트, 스피링, 헤로쿠, python anywhere 및 아마존 AWS, docker</strong>등을 계속해서 조금씩 공부할 생각입니다. 
 
 
@@ -191,17 +203,17 @@ carerr_meta: career
 career_header: Work Career
 career_list:
 - name: 과기전통부 산학과제
-  date: 2020.06~2020.11
+  date: 2022.06~2020.11
   content: PlenOPtic Video에서 객체 tracking 연구  <br> 중대형 공간용 초고해상도 비정형 플렌옵틱 동영상 저작/재생 플랫폼 기술 개발
   color: color-1
   icon: icon-pen2
   animation: fadeInLeft
-- name: Voice Caddie 산학과제
-  date: 2021.05~2021.10
-  content: 현재 골프치는 사람의 Pose와 Multi-view를 연구하고 있습니다.
-  color: color-2
-  icon: icon-pen2
-  animation: fadeInRight
+# - name: Voice Caddie 산학과제
+#   date: 2021.05~2021.10
+#   content: 현재 골프치는 사람의 Pose와 Multi-view를 연구하고 있습니다.
+#   color: color-2
+#   icon: icon-pen2
+#   animation: fadeInRight
 
 
 # Education

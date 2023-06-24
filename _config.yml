@@ -208,17 +208,17 @@ career_list:
 edu_meta: Education
 edu_header: Education
 edu_list:
-- title: KOREA UNIVERSITY ARTIFICIAL INTELLIGENCE MASTER'S DEGREE
-  subtitle: 고려대 인공지능학과 대학원 석사과정
-  date: 20xx.01 - 현재
-  content: 설명설명 설명글 
-- title: HANSUNG UNIVERSITY
-  subtitle: xx대학교 xx과 졸업
-  date: 20xx.03 - 20xx.02
+# - title: KOREA UNIVERSITY ARTIFICIAL INTELLIGENCE MASTER'S DEGREE
+#   subtitle: 고려대 인공지능학과 대학원 석사과정
+#   date: 20xx.01 - 현재
+#   content: 설명설명 설명글 
+- title: DEAGU UNIVERSITY
+  subtitle: 대구대학교 컴퓨터 소프트웨어학과 졸업
+  date: 2016.03 - 2022.02
   content: 나에대한 간단한 설명글 
-- title: YEOUIDO HIGH SCHOOL
-  subtitle: xx고등학교
-  date: 20xx.03 - 20xx.02
+- title: JINLYANG HIGH SCHOOL
+  subtitle: 진량고등학교
+  date: 2013.03 - 2016.02
   content: >-
     설명글
     설명글

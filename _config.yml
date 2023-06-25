@@ -173,19 +173,71 @@ ach_list:
     - subtitle: 장려상
       date: 2021-10
       agency: 대구대정보통신대학
-      content: 공학제 장려상 수상
+      content: 2021학년도 정보통신대전 학생작품경진대회
     - subtitle: 입선상
       date: 2020-12
       agency: 인천테크노파크
-      content: VR,IR 아이디어 공모전 입선 상 수상
+      content: 인천 VR,AR 콘텐츠 아이디어 공모전
     - subtitle: 장려상
       date: 2020-11
       agency: 경상북도 LINC+사업단
-      content: 2020 대학생 4차산업혁명 크리에이티브 공모전 장려상 수상
+      content: 2020 대학생 4차산업혁명 크리에이티브 공모전
     - subtitle: 우수상
       date: 2020-11
       agency: 청음복지관
-      content: 제 1회 청각장애인 편의증진을 위한 ICT아이디어 공모전 우수상 수상
+      content: 제 1회 청각장애인 편의증진을 위한 ICT아이디어 공모전
+    - subtitle: 입선상
+      date: 2019-12
+      agency: 한국정보산업연합회
+      content: 2019 한이음 공모전
+    - subtitle: 장려상
+      date: 2019-12
+      agency: 충북 ICT산업
+      content: 2019 ICT융합 공모전
+    - subtitle: 장려상
+      date: 2019-12
+      agency: 로보링크 주식회사
+      content: 제 1회 코드론 창작 콘테스트
+    - subtitle: 장려상
+      date: 2019-11
+      agency: 대구대학교
+      content: 교내 SW아이디어 챌린지 공모전
+    - subtitle: 우수상
+      date: 2019-11
+      agency: 공학교육혁신협회
+      content: 2019 공학교육페스티벌
+    - subtitle: 창의상
+      date: 2019-10
+      agency: 대구대학교 공학교육혁신센터
+      content: 교내 DU Creative Festival 창의아이디어 경진대회
+    - subtitle: 입상
+      date: 2019-10
+      agency: 대구대학교 공학교육혁신센터
+      content: 교내 DU Creative Festival 캡스톤디자인 경진대회
+    - subtitle: 우수작품상
+      date: 2019-10
+      agency: 한국산업융합학회
+      content: 2019 창원전국지능로봇경진대회
+    - subtitle: 장려상
+      date: 2016-11
+      agency: 경북창조경제혁신센터
+      content: 제 4회 G-Star 대학생 창업경진대회
+    - subtitle: 장려상
+      date: 2016-10
+      agency: 대구대학교 창업지원단
+      content: 교내 DU 청춘 아이디어 경진대회
+    - subtitle: 우수상
+      date: 2016-10
+      agency: 대구대학교 정보통신대학
+      content: 교내 2016 공학제 작품전시회
+    - subtitle: 우수기능상
+      date: 2016-08
+      agency: 한국산업융합학회
+      content: 2016 전국지능로봇경진대회
+    - subtitle: 장려상
+      date: 2016-06
+      agency: 대구대학교 공학교육혁신센터
+      content: 2016 즐기는 디자인창의융합캠프 장려상
   
   # date: 2016.03 - 2022.02
 

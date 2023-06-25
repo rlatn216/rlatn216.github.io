@@ -366,22 +366,22 @@
 											{% else %}
 											<div id="edu_collapser_{{forloop.index}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="edu_heading_{{forloop.index}}">
 											{% endif %}
-											{% for ach1 in site.achsub_list %}
 												<div class="panel-body">
-													<div class="row">
-														<div class="col-md-4">
-															<p>
-																{{ ach1.subtitle }}
-																<br>
-																{{ ach1.date }}
-															</p>
+													{% for ach_sub in ach.ach_sublist %}
+														<div class="row">
+															<div class="col-md-4">
+																<p>
+																	{{ ach_sub.subtitle }}
+																	<br>
+																	{{ ach_sub.date }}
+																</p>
+															</div>
+															<div class="col-md-8">
+																<p>{{ ach_sub.content }}</p>
+															</div>
 														</div>
-														<div class="col-md-8">
-															<p>{{ ach1.content }}</p>
-														</div>
-													</div>
+													{% endfor %}
 												</div>
-											{% endfor %}
 											</div>
 										</div>
 									{% endfor %}

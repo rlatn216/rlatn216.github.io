@@ -160,6 +160,24 @@ project_business: # 형식에 맞추어 항목 추가
   readmore_url: #
 
 
+# achievement
+achievement_meta: career
+achievement_header: Work Career
+achievement_list:
+- name: 인지소프트(금융 IT기업) 근무
+  date: 2022.12 ~ 현재
+  content: 텔러의 PC Viewer와 소비자의 Tablet의 통신을 위해 MQTT를 이용한 구독형 통신 모듈 개발 <br> MQTT 모듈을 이용해 PC Viewer와 Tablet간의 전자문서 작업 Commend 처리 및 원격 스트리밍 개발 <br>기존에 서비스중인 디지털 창구시스템 기능별 표준화
+  color: color-1
+  icon: icon-pen2
+  animation: fadeInLeft
+# - name: Voice Caddie 산학과제
+#   date: 2021.05~2021.10
+#   content: 현재 골프치는 사람의 Pose와 Multi-view를 연구하고 있습니다.
+#   color: color-2
+#   icon: icon-pen2
+#   animation: fadeInRight
+
+
 # Experience
 exp_meta: What have I achieved?
 exp_header: 저는 이런 "경험"들을 해봤습니다.

@@ -172,16 +172,20 @@ ach_list:
   ach_sublist:
     - subtitle: 장려상
       date: 2021-10
-      content: 대구대정보통신대학 공학제 장려상 수상
+      agency: 대구대정보통신대학
+      content: 공학제 장려상 수상
     - subtitle: 입선상
       date: 2020-12
-      content: 인천테크노파크 VR,IR 아이디어 공모전 입선 상 수상
+      agency: 인천테크노파크
+      content: VR,IR 아이디어 공모전 입선 상 수상
     - subtitle: 장려상
       date: 2020-11
-      content: 경상북도 LINC+사업단 2020 대학생 4차산업혁명 크리에이티브 공모전 장려상 수상
+      agency: 경상북도 LINC+사업단
+      content: 2020 대학생 4차산업혁명 크리에이티브 공모전 장려상 수상
     - subtitle: 우수상
       date: 2020-11
-      content: 청음복지관 제 1회 청각장애인 편의증진을 위한 ICT아이디어 공모전 우수상 수상
+      agency: 청음복지관
+      content: 제 1회 청각장애인 편의증진을 위한 ICT아이디어 공모전 우수상 수상
   
   # date: 2016.03 - 2022.02
 

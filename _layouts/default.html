@@ -361,26 +361,28 @@
 													{% endif %}
 												</h4>
 											</div>
-											{% if forloop.first %}
-											<div id="edu_collapser_{{forloop.index}}" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="edu_heading_{{forloop.index}}">
-											{% else %}
-											<div id="edu_collapser_{{forloop.index}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="edu_heading_{{forloop.index}}">
-											{% endif %}
-												<div class="panel-body">
-													<div class="row">
-														<div class="col-md-4">
-															<p>
-																{{ ach.subtitle }}
-																<br>
-																{{ ach.date }}
-															</p>
-														</div>
-														<div class="col-md-8">
-															<p>{{ ach.content }}</p>
+											{% for ach in site.achsub.list %}
+												{% if forloop.first %}
+												<div id="edu_collapser_{{forloop.index}}" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="edu_heading_{{forloop.index}}">
+												{% else %}
+												<div id="edu_collapser_{{forloop.index}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="edu_heading_{{forloop.index}}">
+												{% endif %}
+													<div class="panel-body">
+														<div class="row">
+															<div class="col-md-4">
+																<p>
+																	{{ ach.subtitle }}
+																	<br>
+																	{{ ach.date }}
+																</p>
+															</div>
+															<div class="col-md-8">
+																<p>{{ ach.content }}</p>
+															</div>
 														</div>
 													</div>
 												</div>
-											</div>
+											{% endfor %}
 										</div>
 									{% endfor %}
 

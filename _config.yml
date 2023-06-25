@@ -169,14 +169,14 @@ ach_list:
 #   date: 20xx.01 - 현재
 #   content: 설명설명 설명글 
 - title: CONTEST
-  achsub_list:
-    subtitle: 대구대학교 컴퓨터 소프트웨어학과 졸업
-    content: 나에대한 간단한 설명글
-    subtitle: 대구대학교 컴퓨터 소프트웨어학과 졸업
-    content: 나에대한 간단한 설명글 
-    subtitle: 대구대학교 컴퓨터 소프트웨어학과 졸업
-    content: 나에대한 간단한 설명글
+  subtitle: 대구대학교 컴퓨터 소프트웨어학과 졸업
+  content: 나에대한 간단한 설명글
+  subtitle: 대구대학교 컴퓨터 소프트웨어학과 졸업
+  content: 나에대한 간단한 설명글 
+  subtitle: 대구대학교 컴퓨터 소프트웨어학과 졸업
+  content: 나에대한 간단한 설명글 
   # date: 2016.03 - 2022.02
+
 - title: JINLYANG HIGH SCHOOL
   subtitle: 진량고등학교
   date: 2013.03 - 2016.02

@@ -167,7 +167,13 @@ ach_list:
 # - title: KOREA UNIVERSITY ARTIFICIAL INTELLIGENCE MASTER'S DEGREE
 #   subtitle: 고려대 인공지능학과 대학원 석사과정
 #   date: 20xx.01 - 현재
-#   content: 설명설명 설명글 
+#   content: 설명설명 설명글
+- title: certificate
+  ach_sublist:
+    - subtitle: 정보처리기사
+      date: 2022-09
+      agency: 한국산업인력공단
+      content: 정보처리기사 취득
 - title: CONTEST
   ach_sublist:
     - subtitle: 장려상
@@ -238,13 +244,6 @@ ach_list:
       date: 2016-06
       agency: 대구대학교 공학교육혁신센터
       content: 2016 즐기는 디자인창의융합캠프 장려상
-- title: certificate
-  ach_sublist:
-    - subtitle: 정보처리기사
-      date: 2022-09
-      agency: 한국산업인력공단
-      content: >-
-        설명
 
 
 # Experience

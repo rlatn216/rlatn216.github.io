@@ -84,25 +84,25 @@ tech_list: # 형식에 맞추어 항목 추가
   animation: fadeInLeft
   percent: 50
   mark: 50
-  content: 파이썬 기초, 데이터 분석과 시각화를 공부하고 파이썬 언어의 기본적인 문법에 대해 알고 있으며, 자료구조 및 알고리즘을 파이썬으로 공부하였습니다.
+  content: MVVM 패턴을 현업에서 사용하여 전자문서를 통해 은행 업무가 가능한 디지털 창구서비스, 재사용성과 생산성을 높일 수 있게 표준화를 수행한 경험이 있습니다.
 - name: Jetpack
   color: color-2
   animation: fadeInRight
   percent: 70
   mark: 70
-  content: 공부하면 공부할수록 이 분야가 정말 방대하고 제가 아는것이 정말 일부분이라는 것을 많이 느낍니다. 통계 이론부터 다시 배우겠다는 마음으로 공부하고 있습니다.
+  content: viewmodel, navigation, Repository, LiveData, stateFlow 등 jetpack에서 제공해주는 다양한 라이브러리를 사용하여 안드로이드 앱을 구현할 수 있습니다.
 - name: DI
   color: color-3
   animation: fadeInLeft
   percent: 40
   mark: 40
-  content: AWS를 서버로 활용하며, IOT 프로젝트를 해보았습니다. 현재는 도커에 대해 학습하고 있습니다.
+  content: MVVM패턴에서 각 기능을 맡고있는 클래스에 의존성을 주입을 하기 위해 Hilt를 사용하여 의존성을 관리해본 경험이 있습니다.
 - name: Networking
   color: color-4
   animation: fadeInRight
   percent: 50
   mark: 50
-  content: 대부분의 프로젝트를 github를 통해 소스 코드를 관리하였으며, 협업 역시 github을 통해 진행하였습니다. 또한 github서버를 활용하여 블로그 및 포트폴리오 사이트를 관리합니다.
+  content: API 통신을 위해 구현된 OkHttp의 HTTP 통신을 간편하게 해주는 Retrofit2, 태블릿과 pc 통신을 위한 구독형 통신 MQTT, 등을 사용해본 경험이 있습니다.
 tech_desc: 앞으로 연구한것을 서비스화하기 위해서 <strong>javascript, Node JS, 리엑트, 스피링, 헤로쿠, python anywhere 및 아마존 AWS, docker</strong>등을 계속해서 조금씩 공부할 생각입니다. 
 
 

@@ -251,18 +251,18 @@ exp_meta: What have I achieved?
 exp_header: 저는 이런 "경험"들을 해봤습니다.
 exp_content: 현재 개발로서는 큰 도움은 되지 않을 수 있지만, 회사에서 필요로 한다면 이런 역량도 가지고 있습니다.
 exp_services: # 형식에 맞추어 항목 추가
-- name: 매니지먼트
+- name: 문제해결능력
   color: color-1
   icon: icon-bulb
-  content: 6개의 프로젝트 모두 팀장을 맡아 각 팀원들의 능력을 파악하고 업무를 배정하고 관리하였습니다.
-- name: 기술습득
+  content: 다양한 증권사 파견, 대학 시절 17개의 수상 경험을 토대로 기술적, 시간적 한계를 극복하며 문제해결 능력을 키워왔습니다.
+- name: 기술적응력
   color: color-2
   icon: icon-home
-  content: 제가 선택한 길, 항상 열정을 다해 공부하며 새로운 기술에 대해 즐거운 마음으로 배웁니다.
+  content: 프로젝트 참가 이력이 많아 여러 기술들을 접할 기회가 많았기에 항상 새로운 마음으로 배워왔습니다. 최근에는 금융IT에서 compose를 활용한 안드로이드 개발을 이어가고 있습니다.
 - name: 프로젝트
   color: color-3
   icon: icon-phone3
-  content: 다양한 프로젝트를 기획, 진행 해왔기에 업무에 대한 협력과 배분이 익숙합니다. 새로운 프로젝트에 도전적입니다.
+  content: 기술에 초점을 둔 공모전뿐 아닌 창업대회, 아이디어공모전 등 사용자의 편의성, 사업성을 고려하여 개발을 진행해본 경험도 가지고 있습니다.
 exp_counters:
 - name: Online Class Sales
   count: 344

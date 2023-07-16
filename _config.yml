@@ -113,7 +113,7 @@ project_introduce: <span>개인 프로젝트</span><span>팀 프로젝트</span>
 project_load_more: 앞으로 더 많은 프로젝트가 추가될 예정입니다:)    # 더보기 내용
 project_load_more_url: #
 
-project_my_name: 개인프로젝트
+project_my_name: 프로젝트
 
 project_my: # 형식에 맞추어 항목 추가
 - background_url: images/personal_project1.PNG
@@ -137,21 +137,21 @@ project_my: # 형식에 맞추어 항목 추가
   detail_url: #
   readmore_url: #
 
-project_team_name: 팀프로젝트
-project_team: # 형식에 맞추어 항목 추가
-- background_url: images/team_project3.PNG
-  animation: fadeInRight
-  name: Anti-Drone_Robot(2020.05)
-  description: 2019년 드론기술발전에 따른 드론관련 사고들이 많아지고 있음을 파악하고 그에따른 대처가 필요하다고 생각 하여 인공지능을 이용한 Anti Drone Robot 을 개발하였다
-  detail_url: #
-  readmore_url: #
+# project_team_name: 팀프로젝트
+# project_team: # 형식에 맞추어 항목 추가
+# - background_url: images/team_project3.PNG
+#   animation: fadeInRight
+#   name: Anti-Drone_Robot(2020.05)
+#   description: 2019년 드론기술발전에 따른 드론관련 사고들이 많아지고 있음을 파악하고 그에따른 대처가 필요하다고 생각 하여 인공지능을 이용한 Anti Drone Robot 을 개발하였다
+#   detail_url: #
+#   readmore_url: #
 
-- background_url: images/team_project3.PNG
-  animation: fadeInRight
-  name: sasdasdasdsadsagjghkukt(2020.05)
-  description: 2019년 드론기술발전에 따른 드론관련 사고들이 많아지고 있음을 파악하고 그에따른 대처가 필요하다고 생각 하여 인공지능을 이용한 Anti Drone Robot 을 개발하였다
-  detail_url: #
-  readmore_url: #
+# - background_url: images/team_project3.PNG
+#   animation: fadeInRight
+#   name: sasdasdasdsadsagjghkukt(2020.05)
+#   description: 2019년 드론기술발전에 따른 드론관련 사고들이 많아지고 있음을 파악하고 그에따른 대처가 필요하다고 생각 하여 인공지능을 이용한 Anti Drone Robot 을 개발하였다
+#   detail_url: #
+#   readmore_url: #
 
 project_business_name: Business
 project_business: # 형식에 맞추어 항목 추가

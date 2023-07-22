@@ -120,22 +120,22 @@ project_my: # 형식에 맞추어 항목 추가
   animation: fadeInLeft
   name: 스마트 전시회관람 앱
   description: NFC 태그를 활용하여 태그 스티커의 고유 ID마다 동영상을 매칭하여 DB에 저장해 지정된 태그에 영상이 표출될 수 있게 만든 프로젝트
-  detail_url: #
-  readmore_url: #
+  # detail_url: #
+  readmore_url: https://github.com/rlatn216/Smart-Exhibition-app
 
 - background_url: images/blog-1.PNG
   animation: fadeInLeft
   name: 문자인식 번역 앱
-  description: firebase의 ML-kit을 활용하여 스마트폰으로 영어가 보이는 곳을 사진으로 찍어 한국어로 번역하여 읽어주는 애플리케이션
-  detail_url: #
+  description: https://github.com/rlatn216/Text-recognition-translation-app
+  # detail_url: #
   readmore_url: #
 
 - background_url: images/blog-1.PNG
   animation: fadeInLeft
   name: 음성드론 조종앱
   description: STT(Speech to Text)를 사용해 사람의 음성을 Text로 변환 후 소켓 통신을 이용하여 드론에서 데이터 전송을 해주는 애플리케이션
-  detail_url: #
-  readmore_url: #
+  # detail_url: #
+  readmore_url: https://github.com/rlatn216/Drone-app
 
 # project_team_name: 팀프로젝트
 # project_team: # 형식에 맞추어 항목 추가

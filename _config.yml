@@ -35,19 +35,18 @@ color_6: CF94D8
 
 # slider type 0  (텍스트가 우측 정렬된 슬라이더)
 slider_0: # 형식에 맞추어 항목 추가
-- background_url: images/cover_bg_3.jpeg
-  title: 안녕하세요. <br>반갑습니다!</br>
+- background_url: images/cover_bg_3.jpg
+  title: Welcome <br>To My </br> Portfolio </br>
 
 
 # slider type 1  (텍스트가 좌측 정렬된 슬라이더)
 slider_1: # 형식에 맞추어 항목 추가
 - background_url: images/img_bg_4.jpg
-  title: I am<br>AI Developer
+  title: Android<br> Developer
   subtitle: >- 
-    조금은 늦었지만<br>
-    아무것도 몰랐지만<br>
-    무작정 따라하며 성장해온<br>
-    초보 개발자 babycheetah입니다.
+    Kotlin / Java<br>
+    Web / Native / Hybrid APP<br>
+    Compose<br>
 
 
 # About

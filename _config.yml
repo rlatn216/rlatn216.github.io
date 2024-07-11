@@ -127,7 +127,7 @@ project_my: # 형식에 맞추어 항목 추가
   # detail_url: #
   readmore_url: https://github.com/rlatn216/Smart-Exhibition-app
 
-- background_url: images/personal_project8.png
+- background_url: images/personal_project9.png
   animation: fadeInLeft
   name: 문자인식 번역 앱
   description: firebase의 ML-kit을 활용하여 스마트폰으로 영어가 보이는 곳을 사진으로 찍어 한국어로 번역하여 읽어주는 애플리케이션

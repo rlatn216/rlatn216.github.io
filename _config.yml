@@ -289,7 +289,12 @@ career_header: Work Career
 career_list:
 - name: 인지소프트(금융 IT기업) 근무
   date: 2022.12 ~ 현재
-  content: <ul><li>텔러의 PC Viewer와 소비자의 Tablet의 MQTT구독형 통신 모듈 개발</li><li>PC Viewer와 Tablet간의 전자문서 작업 Commend 처리 및 원격 스트리밍 개발</li><li>기존에 서비스중인 디지털 창구시스템 기능별 표준화</li></ul>
+  content: <ul>
+  <li>PC Viewer와 Tablet 간의 MQTT구독형 통신 모듈 개발</li>
+  <li>유진투자증권 PPR 솔루션 전자서식, 비즈로직 작성</li>
+  <li>IBK 증권 ODS APP 전자문서 컨트롤 추가 개발 및 유지보수</li>
+  <li>하나증권 ODS APP 개발 및 유지보수</li>
+  </ul>
   color: color-1
   icon: icon-pen2
   animation: fadeInLeft
